@@ -11,3 +11,11 @@ Create .env file in root directory and add :
 VITE_SITE_URL = "https://yourdomain.com"
 ````
 
+## Install
+
+```bash
+# yarn
+yarn install
+
+# npm
+npm install
