@@ -1,7 +1,7 @@
 # Nuxt 3 Simple Subdomain Routing
 
-This repo is a testing NUXT3 subdomain routing with `router.option.ts` in app folder
-it work both in pages folder `profile` and Layers extends `_blog`
+This repo is a testing NUXT3 subdomain routing with `router.option.ts` in app folder.
+It work both in pages folder `profile` and Layers extends `_blog`
 
 
 ## Setup
